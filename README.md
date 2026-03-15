@@ -38,8 +38,3 @@ With the rapid expansion of renewable energy (wind and solar), electricity grid 
 * **Python**
 * **CVXPY** (Convex optimization solver)
 * **NumPy / Pandas** (Data structuring)
-
-## How to Run
-1. Clone this repository.
-2. Install the required libraries: `pip install numpy pandas cvxpy`
-3. Run the optimization engine: `python battery_dispatch_optimizer.py`
